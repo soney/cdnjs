@@ -1,0 +1,32 @@
+{
+  "name": "constraintjs",
+  "npmName": "constraintjs",
+  "npmFileMap": [
+    {
+      "basePath": "/dist/",
+      "files": [
+        "jquery.*"
+      ]
+    }
+  ],
+  "filename": "cjs.min.js",
+  "version": "0.9.6",
+  "description": "Constraint library for JavaScript",
+  "homepage": "http://cjs.from.so/",
+  "keywords": [
+    "constraintjs",
+    "cjs"
+  ],
+  "maintainers": [
+    {
+      "name": "Steve Oney"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/soney/constraintjs"
+    }
+  ]
+}
+
